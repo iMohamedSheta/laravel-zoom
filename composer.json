@@ -67,7 +67,7 @@
                 "version": "1.0",
                 "source": {
                     "url": "https://github.com/iMohamedSheta/laravel-zoom-updated-larav10.git",
-                    "type": "git",
+                    "type": "vcs",
                     "reference": "master"
                 }
             }
