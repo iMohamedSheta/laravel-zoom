@@ -65,9 +65,10 @@
             "package": {
                 "name": "imohamedsheta/laravel-zoom-api-client",
                 "version": "1.0",
+                "type":"vcs",
                 "source": {
                     "url": "https://github.com/iMohamedSheta/laravel-zoom-updated-larav10.git",
-                    "type": "vcs",
+                    "type": "git",
                     "reference": "master"
                 }
             }
