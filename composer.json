@@ -1,7 +1,9 @@
+
+
 {
-    "name": "macsidigital/laravel-zoom",
+    "name": "imohamedsheta/laravel-zoom-updated-laravel10",
     "description": "Laravel Zoom package",
-    "homepage": "https://github.com/MacsiDigital/laravel-zoom",
+    "homepage": "https://github.com/iMohamedSheta/laravel-zoom-updated-laravel10",
     "keywords": [
         "macsidigital",
         "laravel-zoom",
@@ -14,8 +16,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Colin Hall",
-            "email": "colin@macsi.co.uk",
+            "name": "iMohamedSheta",
+            "email": "mohamed15.sheta15@gmail.com",
             "role": "Developer"
         }
     ],
